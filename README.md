@@ -1,2 +1,3 @@
-# Facial-recognition
-Facial recognition using machine learning
+# NUMPY
+
+Numpy complete commands 
